@@ -9,7 +9,7 @@
 
 ## What This Is
 
-A fully-verified three-statement financial model (Income Statement, Balance Sheet, Cash Flow) and DCF valuation for Deckers Outdoor Corporation, built from scratch using primary SEC filings. Every historical line item was sourced directly from the 10-K and verified to cross-foot. Projections are driven by a single Assumptions tab and aligned to management guidance where available.
+A three-statement financial model (Income Statement, Balance Sheet, Cash Flow) and DCF valuation for Deckers Outdoor Corporation, built from scratch using primary SEC filings. Historical line items were sourced directly from SEC 10-K filings and cross-checked against reported totals. Projections are driven by a single Assumptions tab and aligned to management guidance where available.
 
 ---
 
